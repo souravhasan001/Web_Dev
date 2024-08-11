@@ -1,0 +1,9 @@
+Unites in CSS 
+Absolute
+
+pixels(px)
+
+96px = 1 inch
+font-size: 2px;
+
+text-tranform : uppercase/ lowercase /capitalize /none
