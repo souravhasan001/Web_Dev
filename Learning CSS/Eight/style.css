@@ -1,0 +1,35 @@
+div{
+    border: 2px solid black;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+
+}
+#contenar{
+    height: 200px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    
+
+
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: aquamarine;
+}
+#box3{
+    background-color: cadetblue;
+}
+#box4{
+    background-color: chartreuse;
+}
+h1{
+    text-align: center;
+}
